@@ -33,6 +33,16 @@ div:hover{
     transform: scale(1.1);
 }
 
+.l1{
+    color:rgba(0, 121, 201, 0.781);
+    Transition: transform.2s;
+    padding:4px;
+}
+.l1:hover{
+    transform: scale(1.15);
+
+}
+
 .mname{
     font-family: 'Arial Narrow'; 
     font-size:35px;
@@ -41,19 +51,49 @@ div:hover{
     text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
 
 }
-
+.head{
+    color: rgb(0, 201, 201);
+}
 .headers{
     width:190px;
 }
 
+.a2{
+    color:rgba(0, 121, 201, 0.781);
+    Transition: transform.2s;
+}
+.a2:hover{
+    transform: scale(1.15);
+}
+
 .a1{
+    color:rgba(0, 121, 201, 0.781);
+    Transition: transform.2s;
     font-weight:bold;
+}
+.a1:hover{
+    transform: scale(1.15);
+}
+.a3{
+    color: rgb(0, 201, 201);
+
+}
+
+.a5{
+    color:rgba(0, 121, 201, 0.781);
+    Transition: transform.2s;
+    text-align: justify;
+}
+.a5:hover{
+    transform: scale(1.18);
+    
 }
 
 .t1{
     font-size: 14px; 
     font-weight:bold; 
     vertical-align: text-top;
+    color: rgb(0, 201, 201);
 }
 
 .td1{
@@ -69,8 +109,12 @@ div:hover{
 .td5{
     font-size:16px; 
     font-weight:bold;
+    color:rgb(0, 201, 201);
 }
-
+.ch{
+    color:rgba(0, 121, 201, 0.781);
+}
 .tr1{
     font-size: 14px;
+    color:rgba(0, 121, 201, 0.781);
 }
